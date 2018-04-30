@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826805306971",
+    "firebase_url": "https://keepwalking-68a3f.firebaseio.com",
+    "project_id": "keepwalking-68a3f",
+    "storage_bucket": "keepwalking-68a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826805306971:android:094e7a6c92f0d64b",
+        "android_client_info": {
+          "package_name": "com.example.user.keepwalking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826805306971-rq9ubo6062a57d0p6ub1o8fssn8ifkf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.keepwalking",
+            "certificate_hash": "9a56a1cad4920208d6ef572700e5a048b9d6eee4"
+          }
+        },
+        {
+          "client_id": "826805306971-5e5scpoobd84b07ij4d86e165ieb53c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUc2_zYHR_ia6DjRxJ4EL_VQo8Z3lmdM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826805306971-5e5scpoobd84b07ij4d86e165ieb53c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
